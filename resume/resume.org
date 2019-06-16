@@ -1,0 +1,202 @@
+#+TITLE:       Peter Brown - Resume
+#+AUTHOR:      Peter Brown
+#+DATE:        2019-06-15
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Professional Resume of Peter Brown
+#+OPTIONS: texht:t
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [12pt letterpaper notitlepage]
+#+LATEX_HEADER: \pagenumbering{gobble}
+#+LATEX_HEADER: \usepackage{helvet}
+#+LATEX_HEADER: \renewcommand{\familydefault}{phv}
+#+LATEX_HEADER: \usepackage{parskip}
+#+LATEX_HEADER: \usepackage[margin=0.5in]{geometry}
+
+#+BEGIN_QUOTE
+Not knowing how something works has never stopped me from achieving anything.
+#+END_QUOTE
+
+* Skills / Experience Summary
+
+- Entirely self taught with a background in Computer Science
+- Fast learner with the ability to learn teach myself and others skills quickly
+- Fifteen years experience in the IT industry in a variety of businesses
+- Highly skilled in automation tools like Kubernetes, Puppet and Docker
+- Skilled in CI/CD tools and methodologies
+- Experience with Agile methodologies and practices
+
+* Experience
+
+** Power Home Remodeling Group
+
+*Site Reliability Engineer*
+
+/March 2016 - Present/
+
+Power Home Remodeling Group sells a large range of home remodeling products to home owners across the America from 16 branch offices.
+
+Responsibilities
+- Build, manage, maintain and automate Power's cloud infrastructure consisting of Kubernetes, Vmware, NetApp and F5 using Ansible, Puppet, Docker and Terraform.
+- Maintain, manage and build the Jenkins CI/CD infrastructure.
+- Build, manage and maintain our NextCloud cluster.
+- Support our developer's demo environments.
+- Other duties and support tasks as required.
+
+** Carinity ICT Brisbane Australia
+
+*Puppet Consultant*
+
+/Jul 2014-Sept 2016/
+
+Carinity ICT manages the IT infrastructure for the Baptist Church’s Community Services
+
+Responsibilities
+- Maintaining Carinity’s puppet server and associated code
+- Writing new puppet modules as required
+
+** Pivit, Brisbane Australia
+
+*Systems Engineer*
+
+/Sept 2013 - Sept 2015/
+
+Pivit provides fibre internet services and phones
+
+Responsibilities
+- Rebuilding server infrastructure into an automated and managed environment with Puppet, Docker and OpenStack
+- Managing OpenStack
+- Writing puppet modules to manage all the company’s services
+- Write Docker images for selected services
+- Managing and maintaining an Ubuntu and CentOS Linux server infrastructure with Puppet/Docker and OpenStack.
+- Provide 2/3 level support for customer service team.
+
+Achievements
+- Deployed a new MariaDB Galera cluster
+- Dramatic improvements for puppet setup
+- Setting up software releases processes with puppet
+- Successfully migrated most services into new managed infrastructure with little or no downtime
+
+** Solid Foundations, Brisbane Australia
+
+*Systems Engineer*
+
+/May 2012 - Sept 2013/
+
+Solid Foundations provides third party payment processing gateways
+
+Responsibilities
+- Managing monitoring and maintaining a growing Fedora and CentOS Linux server infrastructure with Puppet.
+- Managing and maintaining AWS servers, DNS and vpcs.
+- Server virtualisation (KVM on CentOS)
+- Database administration (MySQL, PostgreSQL)
+- Email administration (Postfix, Dovecot)
+- Source code management (Subversion, Git)
+- Network management (DNS, Juniper router)
+- Server Security (SELinux, iptables, ssh, ssl)
+
+Achievements
+- Setting up a new puppet server for managing infrastructure
+- Setup a new authentication server using FreeIPA
+- Setup a new email server authenticating with FreeIPA
+- Improving software release processes
+
+** Ireckon, Brisbane Australia
+
+*Systems Administrator*
+
+/Dec 2010 - Mar 2011/
+
+Ireckon provides web design and hosting to a wide range and large number of clients across Australia.
+
+Responsibilities
+- Managing monitoring and maintaining a Linux server Cluster.
+- Manage and maintaining an AWS server infrastructure
+- Database administration (MySQL)
+- Email administration (Courier, Postfix, Dovecot)
+- Source code management (Subversion)
+- Domain management (DNS)
+- Server Security (iptables, ssh, ssl)
+
+** Tesla Studio, Brisbane Australia
+
+*Systems administrator*
+
+/Jun 2010 - Nov 2010/
+
+Tesla Studio provides third party payment processing gateways for credit card and other payment methods. It also provides pre-paid credit cards and gift cards.
+
+Responsibilities
+- Managing monitoring and maintaining a growing CentOS Linux and Debian server infrastructure spread across four data centres spread across the globe.
+- Server virtualisation (Xen on CentOS)
+- Database administration (MySQL)
+- Email administration (Postfix, Cyrus, Courier)
+- Source code management (Subversion, Git)
+- Network management (DNS)
+- Server Security (SELinux, iptables, ssh, ssl)
+
+Achievements
+- Set up a management server using Puppet to manage all the servers in the organisation (including deployment and upgrades of the company's payment gateway software)
+- Set up a successful testing environment for the company software (also managed with Puppet) as one did not exist previously
+- Built new environment for servers
+- Successfully migrated production environments from overseas servers to local Brisbane servers with minimal downtime
+- Streamlined software release procedures
+
+** ActiveTech Pty Ltd, Brisbane Australia
+
+*Systems Administrator*
+
+/March 2007 – November 2010/
+
+ActiveTech provides third party credit card payment gateways.
+
+Responsibilities
+- Managing, monitoring and maintaining the CentOS linux server infrastructure for the company.
+- Server virtualisation (Xen on OpenSolaris and CentOS)
+- Database administration (MySQL,MongoDB)
+- Email administration (Postfix, Cyrus, Courier)
+- Source code management (Subversion, Git)
+- Desktop support (Vista and XP, Ubuntu)
+- Windows server administration (SBS 2003)
+- Network management (DNS, VPN)
+- PBX administration (Asterisk)
+- Server Security (iptables, ssh, ssl)
+
+Achievements
+- Built entirely new server infrastructure
+- Implemented four physical servers and six virtual servers in the office to replace their original server
+- Set up monitoring for all servers
+- Virtualised most of the office servers
+- Increased their external servers from two to between five and ten at different times.
+- Achieved complete server management through Puppet
+- All servers achieved at least minimum PCI rating at all times under my care
+- Servers never crashed nor did they require recovery
+
+* Open Source Contributions
+
+** helm/charts
+
+https://github.com/helm/charts
+
+Helm Charts in a collection of applications
+
+* Projects
+
+** abstractit-puppet
+
+https://github.com/abstractitptyltd/puppet
+
+A puppet module for managing Puppetserver, PuppetDB and puppet-agent
+
+* Elsewhere
+
+- https://www.github.com/rendhalver
+- https://linkedin.com/in/rendhalver
+
+* Education
+
+** Open University of Australia
+
+*Bachelor of Technology (Computing Studies)*
+
+/2011-2012 Incomplete/
