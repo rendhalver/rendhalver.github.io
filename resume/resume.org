@@ -1,6 +1,6 @@
 #+TITLE:       Peter Brown - Resume
 #+AUTHOR:      Peter Brown
-#+DATE:        2020-08-31
+#+DATE:        2020-09-07
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Professional Resume of Peter Brown
@@ -20,11 +20,12 @@ Not knowing how something works has never stopped me from achieving anything.
 * Skills / Experience Summary
 
 - Entirely self taught with a background in Computer Science
-- Fast learner with the ability to teach myself and others new skills quickly
-- Sixteen years experience in the IT industry in a variety of businesses
-- Highly skilled in automation tools like Kubernetes, Puppet, and Docker
-- Skilled in CI/CD tools and methodologies
-- Experience with Agile methodologies and practices
+- Fast learner with the ability to teach myself new skills quickly
+- Sixteen years of professional experience in the IT industry
+- Automation tools (Ansible, Terraform, and Puppet)
+- Infrastructure tools (Kubernetes, Docker, AWS, and Azure)
+- CI/CD tools (Gitlab-ci, Jenkins and others)
+- Experience with Agile methodologies (Scrum and pair Programming)
 
 * Experience
 
@@ -39,10 +40,16 @@ Jacobi provides a financial modelling platform to a wide variety of businesses a
 Responsibilities
 - Build, manage and maintain Jacobi's Kubernetes infrastructure in AWS and Azure
 - Develop, improve and maintain the ansible and terraform code used to deploy that infrastructure
-- Other duties and support tasks as required.
 
 Achievements
 - Setup Gitlab CI and helped migrate software builds into it
+- Improved and expanded the company's infrastructure code
+
+Skills Learnt or improved
+- GitLab
+- Azure
+- AWS
+- Kubernetes and Docker
 
 ** Power Home Remodeling Group
 
@@ -53,15 +60,24 @@ Achievements
 Power Home Remodeling Group sells a large range of home remodeling products to home owners across the America from 16 branch offices.
 
 Responsibilities
-- Build, manage, maintain, and automate Power's cloud infrastructure consisting of Kubernetes, Vmware, NetApp and F5 using Ansible, Puppet, Docker and Terraform.
+- Build, manage, maintain, and automate Power's on premise infrastructure
 - Maintain, manage and build the Jenkins CI/CD infrastructure.
 - Build, manage, and maintained their NextCloud cluster.
-- Supported their developer's demo environments.
+- Supporting Providing support their developer's demo environments.
+- Participated in on-call support roster
 - Other duties and support tasks as required.
 
 Achievements
+- Expanded and improved the puppet management code
+- Migrated from puppet enterprise to my open source solution
 - Helped migrate the businesses infrastructure into Kubernetes
 - Improved CI/CD infrastructure and processes
+
+Skills Learnt or improved
+- Kubernetes and Docker
+- Vmware, NetApp, F5, Ansible, and Terraform.
+- Jenkins CI/CD platform
+- Git
 
 ** Carinity ICT Brisbane Australia
 
@@ -96,6 +112,10 @@ Achievements
 - Dramatic improvements for puppet setup
 - Setting up software releases processes with puppet
 - Successfully migrated most services into new managed infrastructure with little or no downtime
+
+Skills Learnt or improved
+- OpenStack
+- Docker
 
 ** Solid Foundations, Brisbane Australia
 
@@ -191,6 +211,12 @@ Achievements
 - Achieved complete server management through Puppet
 - All servers achieved at least minimum PCI rating at all times under my care
 - Servers never crashed nor did they require recovery
+
+Skills Learnt or improved
+- Puppet
+- Nagios
+- Git
+- Asterisk
 
 * Open Source Contributions
 
