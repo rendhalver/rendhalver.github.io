@@ -42,7 +42,7 @@ Responsibilities
 - Develop, improve and maintain the ansible and terraform code used to deploy that infrastructure
 
 Achievements
-- Setup Gitlab CI and helped migrate software builds into it
+- Rebuilt CI infrastructure using Gitlab CI
 - Improved and expanded the company's infrastructure code
 
 Skills Learnt or improved
