@@ -25,7 +25,7 @@ Not knowing how something works has never stopped me from achieving anything.
 - Automation tools (Ansible, Terraform, and Puppet)
 - Infrastructure tools (Kubernetes, Docker, AWS, and Azure)
 - CI/CD tools (Gitlab-ci, Jenkins and others)
-- Experience with Agile methodologies (Scrum and pair Programming)
+- Experience with Agile methodologies (Scrum and Pair Programming)
 
 * Experience
 
