@@ -20,7 +20,7 @@ Not knowing how something works has never stopped me from achieving anything.
 * Skills / Experience Summary
 
 - Entirely self taught with a background in Computer Science
-- Fast learner with the ability to teach myself new skills quickly
+- Fast learner with the ability to teach myself new skills
 - Sixteen years of professional experience in the IT industry
 - Automation tools (Ansible, Terraform, and Puppet)
 - Infrastructure tools (Kubernetes, Docker, AWS, and Azure)
