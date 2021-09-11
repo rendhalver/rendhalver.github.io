@@ -60,7 +60,7 @@ Skills Learnt or improved
 Power Home Remodeling Group sells a large range of home remodeling products to home owners across the America from 16 branch offices.
 
 Responsibilities
-- Build, manage, maintain, and automate Power's on premise infrastructure
+- Build and support Power's on premise infrastructure 
 - Maintain, manage and build the Jenkins CI/CD infrastructure.
 - Build, manage, and maintained their NextCloud cluster.
 - Supporting Providing support their developer's demo environments.
