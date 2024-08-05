@@ -1,10 +1,10 @@
 #+TITLE:       Peter Brown - Resume
 #+AUTHOR:      Peter Brown
-#+DATE:        2020-09-07
+#+DATE:        2024-09-05
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: Professional Resume of Peter Brown
-#+OPTIONS: texht:t
+#+OPTIONS: tex:t
 #+LATEX_CLASS: article
 #+LATEX_CLASS_OPTIONS: [12pt letterpaper notitlepage]
 #+LATEX_HEADER: \pagenumbering{gobble}
@@ -23,11 +23,41 @@ Not knowing how something works has never stopped me from achieving anything.
 - Fast learner with the ability to teach myself new skills
 - Sixteen years of professional experience in the IT industry
 - Automation tools (Ansible, Terraform, and Puppet)
-- Infrastructure tools (Kubernetes, Docker, AWS, and Azure)
+- Infrastructure tools (Kubernetes, Containers, AWS, and Azure)
 - CI/CD tools (Gitlab-ci, Jenkins and others)
 - Experience with Agile methodologies (Scrum and Pair Programming)
 
 * Experience
+
+** Red Hat
+
+*Site Reliability Engineer*
+
+/April 2022 - present/
+
+Red Hat is an Open Source software business that maintains and donfributes to many Open Source products.
+They provide support for those products as well.
+My time at Red hat was spent on the SRE Platform team supporting Managed OpenShift clusters for many large and well known businesses.
+
+Responsibilities
+- Contribute code to increase the scalability and reliability of the service
+- Contribute software tests and participate on peer review to increase the quality of the code base
+- Help and develop peers' capabilities through knowledge sharing, mentoring, and collaboration
+- Participate in regular on-call schedule, including occasional paid weekends and holidays
+- Practice sustainable incident response and blameless postmoretems
+- Resolve customer issues escalated from our Global Support team
+- Work within a small agile team to develop and improve SRE software, support your peers, plan, and improve my skills
+
+Achievements
+- Spent a year as Region Lead six months after starting role
+- Implemented many improvements to the Ops Review Meeting
+- Helped implement a major change in monitoring system for a new Red Hat product
+- Member of the global leadership council for Mental Health and Neurodiversity
+
+Skills Learnt or improved
+- Azure
+- AWS
+- OpenShift, Kubernetes, and Containers
 
 ** Jacobi Strategies
 
@@ -51,7 +81,7 @@ Skills Learnt or improved
 - GitLab
 - Azure
 - AWS
-- Kubernetes and Docker
+- Kubernetes and Containers
 
 ** Power Home Remodeling Group
 
@@ -76,7 +106,7 @@ Achievements
 - Improved CI/CD infrastructure and processes
 
 Skills Learnt or improved
-- Kubernetes and Docker
+- Kubernetes and Containers
 - Vmware, NetApp, F5, Ansible, and Terraform.
 - Jenkins CI/CD platform
 - Git
@@ -102,11 +132,11 @@ Responsibilities
 Pivit provides fibre internet services and phones
 
 Responsibilities
-- Rebuilding server infrastructure into an automated and managed environment with Puppet, Docker and OpenStack
+- Rebuilding server infrastructure into an automated and managed environment with Puppet, Containers and OpenStack
 - Managing OpenStack
 - Writing puppet modules to manage all the company’s services
-- Write Docker images for selected services
-- Managing and maintaining an Ubuntu and CentOS Linux server infrastructure with Puppet/Docker and OpenStack.
+- Write Containers images for selected services
+- Managing and maintaining an Ubuntu and CentOS Linux server infrastructure with Puppet/Containers and OpenStack.
 - Provide 2/3 level support for customer service team.
 
 Achievements
@@ -117,7 +147,7 @@ Achievements
 
 Skills Learnt or improved
 - OpenStack
-- Docker
+- Containers
 
 ** Solid Foundations, Brisbane Australia
 
